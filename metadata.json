@@ -1,0 +1,8 @@
+{
+  "name": "Remix Boutbezwen Piyay Store",
+  "description": "Boutik anliy Ayisyen ak peman Natcash fasil ak konfimasyon sou WhatsApp — Tout sa w bezwen a pri piyay!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
